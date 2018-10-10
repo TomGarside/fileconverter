@@ -1,4 +1,4 @@
-##file convert run this as root sudo dosent work really weird 
+
 import os
 import subprocess
 import sys 
